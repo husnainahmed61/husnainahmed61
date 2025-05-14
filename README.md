@@ -18,5 +18,5 @@
   <span> · </span>
   <a href="https://www.twitter.com/husnainahmed61">(X) Twitter</a>
   <span> · </span>
-  <a href="https://www.linkedin.com/in/husnain-ahmed-0560a28b/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/husnain-ahmed-dev">LinkedIn</a>
 </div>
